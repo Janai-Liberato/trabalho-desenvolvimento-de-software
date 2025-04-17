@@ -1,0 +1,28 @@
+body {
+    background: local rgb(233, 214, 197);
+}
+h1 {
+    background-color: coral;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+ul li {
+    margin-bottom: 10px;
+}
+.bateria {
+    border-radius: 20px;
+    width: 250px;
+}
+table {
+    border-collapse: collapse;
+    width: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link:hover {
+    color: rgb(196, 8, 8)
+}
+
+
